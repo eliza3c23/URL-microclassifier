@@ -1,4 +1,5 @@
 #The Great Host/Lexical URL Reputation Bake-off ™
+
 Instructions
 Note that there are two files of URL records, in standard JSON format. One file is the training file, which includes a flag that notes if the URL is pre-known as malicious. The other file is the classification set, which does NOT have a malicious field, which you will be classifying using your micro URL classification system you will build.
 Note that there is a utility provided for you, this is a template in pythonPreview the document that you can use . It is a simple parser for the JSON files. You will be extending this script and turning them into your classification system.
